@@ -17,7 +17,7 @@ function init(){
     renderBoard();
 }
 
-function renderBoard(gBoard){
+function renderBoard(){
     var strHTML = '<table>';
 
     var idx = 0;
